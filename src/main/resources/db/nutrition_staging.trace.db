@@ -1,0 +1,4 @@
+2025-08-30 23:31:36.674403-05:00 jdbc[13]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Error de Sintaxis en sentencia SQL "SELECT * FROM nota nutricionista [*]paciente"
+Syntax error in SQL statement "SELECT * FROM nota nutricionista [*]paciente"; SQL statement:
+SELECT * FROM nota nutricionista paciente [42000-232]
